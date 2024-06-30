@@ -1,7 +1,7 @@
 {
-	"name": "backend-grupo-01-proyecto-final-rc",
+	"name": "Pet_Society_Back",
 	"version": "1.0.0",
-	"description": "Backend del proyecto final del grupo 1 de RollingCode - Fullstack",
+	"description": "Backend del proyecto final del grupo 2",
 	"main": "index.js",
 	"scripts": {
 		"dev": "nodemon src/app.js",
@@ -12,14 +12,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/msdario12/backend-grupo-01-proyecto-final-rc.git"
+		"url": "https://github.com/uisweb/Pet_Society_Back.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/msdario12/backend-grupo-01-proyecto-final-rc/issues"
+		"url": "hhttps://github.com/uisweb/Pet_Society_Back.git"
 	},
-	"homepage": "https://github.com/msdario12/backend-grupo-01-proyecto-final-rc#readme",
+	"homepage": "https://github.com/uisweb/Pet_Society_Back.git",
 	"dependencies": {
 		"axios": "^1.4.0",
 		"bcrypt": "^5.1.0",
